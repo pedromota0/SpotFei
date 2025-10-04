@@ -55,7 +55,3 @@ Assista ao vídeo de execução e apresentação do código para ver o projeto e
 ## 👨‍💻 Contribuições
 
 Este projeto foi desenvolvido como parte de um trabalho de graduação. Sugestões e melhorias são sempre bem-vindas!
-
-## 📄 Licença (Opcional)
-
-Este projeto está sob a licença [Nome da Licença, ex: MIT License]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
